@@ -90,5 +90,3 @@ The dashboard provides business insights through dynamic visualizations and KPI 
 ## Author
 Ghulam Mujtaba
 
-## Author
-Ghulam Mujtaba
