@@ -27,6 +27,23 @@ The dashboard provides business insights through dynamic visualizations and KPI 
 
 ---
 
+# E-Commerce Dashboard
+
+## Sale Wise Analysis
+![Sale Wise Analysis](https://github.com/GhulamMujtaba-03/Farmer-Market-Dashboard-Power-Bi-Project/blob/main/image_02.png?raw=true)
+
+## Quantity Wise Analysis
+![Quantity Wise Analyst](https://github.com/GhulamMujtaba-03/Farmer-Market-Dashboard-Power-Bi-Project/blob/main/image_01.png?raw=true)
+
+## Most_Data_In_one_graph Analysis
+![Most_Data_In_one_graph_Analysis](https://github.com/GhulamMujtaba-03/Farmer-Market-Dashboard-Power-Bi-Project/blob/main/image_03.png?raw=true)
+
+## Model View
+![Model_View](https://github.com/GhulamMujtaba-03/Farmer-Market-Dashboard-Power-Bi-Project/blob/main/image_04.png?raw=true)
+
+
+
+
 ## Dashboard Pages
 
 ### 1. Quantity Wise Analysis
@@ -89,4 +106,3 @@ The dashboard provides business insights through dynamic visualizations and KPI 
 - 
 ## Author
 Ghulam Mujtaba
-
